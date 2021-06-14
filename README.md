@@ -23,3 +23,9 @@
 
 <img src="https://raw.githubusercontent.com/BananaSquares/github-stats/40d0060797f81cc6e533d383226b84c4628d8b44/generated/overview.svg?token=AOQKD5TC4H2LF5UE2GQUESDAY6KNK">
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#3](https://github.com/BananaSquares/PetMod/issues/3) in [BananaSquares/PetMod](https://github.com/BananaSquares/PetMod)
+2. ❗️ Opened issue [#2](https://github.com/BananaSquares/PetMod/issues/2) in [BananaSquares/PetMod](https://github.com/BananaSquares/PetMod)
+3. ❗️ Closed issue [#1](https://github.com/BananaSquares/PetMod/issues/1) in [BananaSquares/PetMod](https://github.com/BananaSquares/PetMod)
+4. 🗣 Commented on [#1](https://github.com/BananaSquares/PetMod/issues/1) in [BananaSquares/PetMod](https://github.com/BananaSquares/PetMod)
+5. ❗️ Closed issue [#84](https://github.com/robbykraft/Origami/issues/84) in [robbykraft/Origami](https://github.com/robbykraft/Origami)
+<!--END_SECTION:activity-->
