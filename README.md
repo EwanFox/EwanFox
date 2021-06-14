@@ -22,3 +22,4 @@
 <h3>Stats</h3>
 
 <img src="https://raw.githubusercontent.com/BananaSquares/github-stats/40d0060797f81cc6e533d383226b84c4628d8b44/generated/overview.svg?token=AOQKD5TC4H2LF5UE2GQUESDAY6KNK">
+<!--START_SECTION:activity-->
