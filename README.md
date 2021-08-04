@@ -1,9 +1,9 @@
 ## Ewan Fox
 
 
-- 🔭 I’m currently working on card/liscense key system
+- 🔭 I’m currently working on a frontend framework with jsx support WITHOUT using babel
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: ewanfox@yahoo.com
+- 📫 How to reach me: ewanfox@yahoo.com or ewan@ewanfox.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I exist
 ### Technologies
