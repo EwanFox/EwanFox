@@ -19,13 +19,4 @@
    <img src="https://img.shields.io/badge/C++-ba10b1?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </div>
-<h3>Stats</h3>
 
-<img src="https://raw.githubusercontent.com/BananaSquares/github-stats/40d0060797f81cc6e533d383226b84c4628d8b44/generated/overview.svg?token=AOQKD5TC4H2LF5UE2GQUESDAY6KNK">
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/duxcore/duxcore/issues/31) in [duxcore/duxcore](https://github.com/duxcore/duxcore)
-2. ❗️ Opened issue [#3](https://github.com/BananaSquares/PetMod/issues/3) in [BananaSquares/PetMod](https://github.com/BananaSquares/PetMod)
-3. ❗️ Opened issue [#2](https://github.com/BananaSquares/PetMod/issues/2) in [BananaSquares/PetMod](https://github.com/BananaSquares/PetMod)
-4. ❗️ Closed issue [#1](https://github.com/BananaSquares/PetMod/issues/1) in [BananaSquares/PetMod](https://github.com/BananaSquares/PetMod)
-5. 🗣 Commented on [#1](https://github.com/BananaSquares/PetMod/issues/1) in [BananaSquares/PetMod](https://github.com/BananaSquares/PetMod)
-<!--END_SECTION:activity-->
