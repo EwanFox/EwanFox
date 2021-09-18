@@ -19,4 +19,5 @@
    <img src="https://img.shields.io/badge/C++-ba10b1?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </div>
+I also specialize in roblox scripting but all my work is closed source
 
