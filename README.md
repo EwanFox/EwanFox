@@ -1,8 +1,8 @@
 ## Ewan Fox
 
 
-- 🔭 I’m currently working on a frontend framework with jsx support WITHOUT using babel
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on stuff
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: ewanfox@yahoo.com or ewan@ewanfox.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I exist
@@ -19,5 +19,4 @@
    <img src="https://img.shields.io/badge/C++-ba10b1?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </div>
-I also specialize in roblox scripting but all my work is closed source
 
