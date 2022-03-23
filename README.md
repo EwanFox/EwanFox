@@ -7,6 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I exist
 - Find me at: https://keybase.io/copa
+
 ### Technologies
 <div align="left">
    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
