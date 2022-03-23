@@ -1,7 +1,7 @@
 ## Ewan Fox
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-<img align="center" src="/metrics.plugins.topics" alt="Metrics" width="400">
+<img align="center" src="/metrics.plugins.topics.svg" alt="Metrics" width="400">
 - 🔭 I’m currently working on stuff
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: ewanfox@yahoo.com or ewan@ewanfox.com
